@@ -9,4 +9,4 @@ Go into the bulletin and scroll to the bottom to obtain the consolidated excel f
 
 Note: You only need to obtain year 2020 onwards data as all earlier data before 2020 are already collated into the same excel under Year 2020.
 
-You will also need to do your own data processing, the data file I have attached in this repository's MOH_Data folder have been manually processed by me.
+You will also need to do your own data processing, the data files I have attached in this repository's MOH_Data folder have been manually processed by me.
